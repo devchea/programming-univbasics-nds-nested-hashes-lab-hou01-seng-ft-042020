@@ -38,6 +38,7 @@ def aoh_lookup(aoh, row, key)
     KATE_G,
     BRUCE_G
   ]
+  lookup_return = [aoh]
 end
 
 def aoh_update(aoh, row, key, new_value)
