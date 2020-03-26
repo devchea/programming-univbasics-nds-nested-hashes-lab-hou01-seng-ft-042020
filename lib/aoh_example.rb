@@ -38,7 +38,7 @@ def aoh_lookup(aoh, row, key)
     KATE_G,
     BRUCE_G
   ]
-  new_array = [:aoh]
+  new_array = [:aoh][:row]
   new_array
 end
 
